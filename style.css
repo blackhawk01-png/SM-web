@@ -1,0 +1,82 @@
+
+body{
+    text-align: center;
+}
+
+h1{
+    color: crimson;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#myloctn{
+    color: darkgreen;
+}
+#mytel{
+    color: darkgreen;
+}
+#myemail{
+    color: darkgreen;
+}
+#nxtbtn{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(109, 200, 109);
+     font-weight: bold;
+    color: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: white;
+    border-top: white;
+     border-radius: 5em;
+}
+#sbt{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(219, 102, 164);
+    font-weight: bold;
+    color: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: white;
+    border-top: white;
+    border-radius: 5em;
+
+}
+form{
+    margin: auto;
+    width: 350px;
+    height: 400px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 1em;
+}
+#sbt:hover{
+    cursor: pointer;
+    background: rgba(255, 20, 145, 0.889);
+}
+
+#nxtbtn:hover{
+    cursor: pointer;
+    background: rgba(34, 139, 34, 0.884);
+}
+.SM-1{
+    font-weight: bold;
+}
+
+.SM-6{
+    color: black;
+    font-weight: bold;
+}
+
+.SM-7 {
+    color:blue;
+    font-weight: bold;
+}
+
+.SM-8{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    color: maroon;
+}
